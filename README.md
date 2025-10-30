@@ -6,7 +6,6 @@ Koltunov, M., Beltrami, F., Grossi, L., & Blasuttigh, N. (2025). The Impact of R
 Last database update: January 2025.
 
 Database created by Maksym Koltunov within a Ph.D. project "The Impact of Renewable Energy Communities in the Italian Day-Ahead Electricity Market: A Scenario Analysis" conducted at University of Trieste.
-Last update: January 2025
 
 Abstract
 This paper evaluates the economic impact of Renewable Energy Communities (RECs) on the
