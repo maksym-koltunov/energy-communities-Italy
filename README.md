@@ -2,7 +2,8 @@
 Please cite this database as:
 Koltunov, M., Beltrami, F., Grossi, L., & Blasuttigh, N. (2025). The Impact of Renewable Energy Communities in the Italian Day-Ahead Electricity Market: A Scenario Analysis (No. arXiv:2510.13517). arXiv. https://doi.org/10.48550/arXiv.2510.13517
 
-Last database update: January 2025
+Last database update: January 2025.
+
 Database created by Maksym Koltunov within a Ph.D. project "The Impact of Renewable Energy Communities in the Italian Day-Ahead Electricity Market: A Scenario Analysis" conducted at University of Trieste.
 Last update: January 2025
 
