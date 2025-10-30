@@ -8,6 +8,7 @@ Last database update: January 2025.
 Database created by Maksym Koltunov within a Ph.D. project "The Impact of Renewable Energy Communities in the Italian Day-Ahead Electricity Market: A Scenario Analysis" conducted at University of Trieste.
 
 Abstract
+
 This paper evaluates the economic impact of Renewable Energy Communities (RECs) on the
 Italian wholesale power market. Combining a bottom-up engineering approach with a short-run
 economic impact assessment, the study begins by mapping existing and emerging RECs in Italy.
@@ -24,5 +25,7 @@ REC deployment can increase equilibrium quantities during daylight in most of th
 self-consumption and offsets lower grid injections. Both positive and negative effects on equilibrium quantities suggest that REC deployment also has a potential to reduce wholesale electricity
 prices. Moreover, by reducing grid exchanges through higher self-consumption, REC proliferation
 can alleviate pressure on the distribution system.
+
 Keywords: Energy Communities; Energy Policy; Energy Transition; Italian Electricity Market; Photovoltaic; Renewable Sources
+
 JEL Classification: Q42, Q47, Q55, Q56
