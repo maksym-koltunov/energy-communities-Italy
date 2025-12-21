@@ -24,7 +24,7 @@ injection and self-consumption on the Italian day-ahead power market. The findin
 REC deployment can increase equilibrium quantities during daylight in most of the time, while decreasing equilibrium quantities mostly during the cold months, as electrified heating drives greater
 self-consumption and offsets lower grid injections. Both positive and negative effects on equilibrium quantities suggest that REC deployment also has a potential to reduce wholesale electricity
 prices. Moreover, by reducing grid exchanges through higher self-consumption, REC proliferation
-can alleviate pressure on the distribution system.
+can alleviate pressure on the transmission system.
 
 Keywords: Energy Communities; Energy Policy; Energy Transition; Italian Electricity Market; Photovoltaic; Renewable Sources
 
