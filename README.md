@@ -4,7 +4,7 @@ Please cite this database as:
 Koltunov, M., Beltrami, F., Grossi, L., Blasuttigh, N. (2026). Impact of renewable energy communities on the Italian day-ahead electricity market: A scenario analysis. Energy Policy, 218, 115518. https://doi.org/10.1016/j.enpol.2026.115518
 
 Last database update: **January 2025.**
-This database includes information on capacities installed + planned by different prosumer categories within RECs in Italy. **These specific data are not available in other databases. **
+This database includes information on capacities installed + planned by different prosumer categories within RECs in Italy. **These specific data are not available in other databases.**
 Database created by Maksym Koltunov within a Ph.D. project "The Impact of Renewable Energy Communities in the Italian Day-Ahead Electricity Market: A Scenario Analysis" conducted at the University of Trieste.  
 
 Abstract
